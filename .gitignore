@@ -43,3 +43,5 @@ pretrained_models/
 **/environment/pretrained_weights/
 .venv_openai_agents
 .bench_env/
+# traced-run outputs
+scripts/__pycache__/
